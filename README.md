@@ -1,3 +1,3 @@
-# Navine Meteor Addon Beta Builds
-This repository will contain the latest versions of navine3!<br>
-These builds should be stable but you can never know.
+# navine Meteor Addon
+This repository contains the latest versions of navine3/navineCE!<br>
+These builds are untested.
